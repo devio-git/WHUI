@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WHUI_Example' do
+  pod 'WHUI', :path => '../'
+
+  target 'WHUI_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

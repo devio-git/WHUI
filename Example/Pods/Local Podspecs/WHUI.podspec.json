@@ -1,0 +1,22 @@
+{
+  "name": "WHUI",
+  "version": "0.1.0",
+  "summary": "WHUI Test",
+  "description": "Just for test",
+  "homepage": "https://github.com/remember17/WHUI",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "503007958@qq.com": "503007958@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/remember17/WHUI.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WHUI/Classes/**/*"
+}
