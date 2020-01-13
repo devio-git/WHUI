@@ -22,6 +22,8 @@ open class WHButton: UIView {
 
 public class WHView: UIView {
     
+    
+    
 }
 
 public class WHLabel: UILabel {
